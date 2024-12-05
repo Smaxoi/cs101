@@ -9,4 +9,5 @@ int main() {
         printf("ture");
     }
 
+    return 0;
 }
