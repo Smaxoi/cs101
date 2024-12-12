@@ -18,7 +18,7 @@ int main()
         }
     }
         
-    x = 2 * t + 1;
+    x = t;
     printf("x is: %d\n", x);
     printf("PI: %.5f\n", PI);
     
